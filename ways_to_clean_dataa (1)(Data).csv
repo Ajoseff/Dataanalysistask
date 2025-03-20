@@ -1,0 +1,27 @@
+Date,ID,Name,Region,Rating,Product,Quantity,Price Per Unit,Total Amount,,SUMMARY,,,,
+1/31/2021,1,John Smith   ,North,Good,Magic Wand,10,$20.00 ,$30.00,,Region,Total Quantity,Total Amount,,Mini Project: Steps on Data Cleaning and Analysis Task
+2/28/2021,2,Jane Doe,East,Excelent,Unicorn Horn,15,$10.00 ,$25.00,,North,105,$172.33,,1. Remove Duplicate IDs: 
+4/30/2021,4,Anna   Belle,South,Average,Fairy Dust,25,$10.00 ,$35.00,,East,190,$293.89,,Highligt the IDs column
+5/31/2021,5,Chris P. Bacon,East,Good,Bacon Scented Candle,30,$16.67 ,$46.67,,West,190,$455.32,,"click on ""Remove duplicate"" on the on the data tool group"
+7/31/2021,7,Mary Jane,West,Poor,Potent Potion,35,$10.00 ,$45.00,,South,295,$457.06,,2. Handle Infinite Values:
+8/31/2021,8,Bruce Wayne,South,Average,Bat Signal,40,$15.00 ,$55.00,,Asgard,155,$213.08,,"Highlights the first row that contains ""inf"" by clicking on the row number"
+9/30/2021,9,Clark Kent,East,Good,Glasses with X-ray Vision,45,$12.22 ,$57.22,,Unidentified,30,$66.67,,"Hold down control key and click on all the row numbers of the remaining rows containing ""inf"""
+10/31/2021,10,Diana Prince,North,Excelent,Lasso of Truth,50,$14.00 ,$64.00,,,965,"$1,658.35",,"Right click and select ""delete rows"" from the list of actions"
+11/30/2021,11,Tony Stark,West,Poor,Iron Man Suit,5,$160.00 ,$165.00,,,,,,3. Regional Analysis:
+12/31/2021,12,Steve Rogers,South,Average,Captain America Shield,20,$45.00 ,$65.00,,,,,,"Add a column and name it ""Total Amount"" at the end of the data set"
+2/28/2022,14,Bruce Banner,,Excelent,Gamma Radiation Serum,30,$36.67 ,$66.67,,,,,,Calculate the total amount using the SUM function
+3/31/2022,15,Nick Fury,West,Poor,Eye Patch,35,$34.29 ,$69.29,,,,,,"Give Column names ""Region, Total Quantity and Total Amount"""
+5/31/2022,17,Peggy Carter,East,Good,Vintage Pistol,40,$35.00 ,$75.00,,,,,,"List regions under the ""Region"" column"
+6/30/2022,18,Howard Stark,North,Excelent,Arc Reactor,45,$33.33 ,$78.33,,,,,,Calculate the total quantity and total amount using the sum function
+7/31/2022,19,Hank Pym,West,Poor,Ant-Man Suit,50,$32.00 ,$82.00,,,,,,Bold the sub totals and Summary
+8/31/2022,20,Janet van Dyne,South,Average,Wasp's Wings,55,$30.91 ,$85.91,,,,,,"Highlight the summary data and go to ""Insert"" on the the menu bar"
+9/30/2022,21,Kurt Busiek,East,Good,Comic Book,60,$30.00 ,$90.00,,,,,,"Insert table from the ""Tables group"
+11/30/2022,23,Roger Stern,West,Poor,Notepads,65,$30.77 ,$95.77,,,,,,
+12/31/2022,24,Tom DeFalco,South,Average,Pen Set,70,$30.00 ,$100.00,,,,,,REPORT AND INSIGHT
+1/31/2023,25,Loki Laufeyson,Asgard,Mischief,Trickster's Hat,75,$29.33 ,$104.33,,,,,,"The cleaning process revealed useful insights about regional sales, highlighting the"
+2/28/2023,26,Thor Odinson,Asgard,Worthy,Mjolnir,80,$28.75 ,$108.75,,,,,,best-performing regions (South) and identifying potential areas for improvement (North
+4/30/2023,28,Steve Rogers,South,Leader,Leadership Manual,85,$29.41 ,$114.41,,,,,,"and Asgard). By correcting anomalies, and categorizing sales correctly, we now "
+,,,,,,965.00,$693.35,"$1,658.35",,,,,,have a more reliable dataset for decision-making and strategic planning.
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
